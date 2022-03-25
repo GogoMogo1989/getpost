@@ -3,6 +3,8 @@ const loadEvent = async _ => {
 
 
     const urlNasaApi = `public/script.js`
+
+    console.log(urlNasaApi)
     
         
     fetch(urlNasaApi)
